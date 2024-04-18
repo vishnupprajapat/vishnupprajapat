@@ -51,6 +51,16 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
+### My Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupprajapat&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Vishnu Prajapat's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupprajapat&theme=nightowl" alt="vishnupprajapat" />
+</p>
+
+---
 
 ### Top Repositories
 
