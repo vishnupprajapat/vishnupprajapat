@@ -51,3 +51,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
+
+### Top Repositories
+
+<a href="https://github.com/vishnupprajapat/E-commerce-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnupprajapat&repo=E-commerce-admin&theme=nightowl" />
+</a>
+<a href="https://github.com/vishnupprajapat/netflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnupprajapat&repo=netflix&theme=nightowl" />
+</a>
