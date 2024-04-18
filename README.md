@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vishnupprajapat&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🔭 Focusing on FullStack (Frontend + Backend ).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
