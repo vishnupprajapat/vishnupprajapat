@@ -10,8 +10,8 @@
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Learn Next Js.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- 🥅 2026 Goals: Learn Next.js.
+- ⚡ Fun fact: Equal is Not Always Equal in JavaScript.🤣
 
 ---
 
