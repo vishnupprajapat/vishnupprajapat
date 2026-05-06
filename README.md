@@ -1,73 +1,115 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+VISHNU+PRAJAPAT....;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
+# Vishnu Prajapat — Full Stack Developer
 
-![](https://komarev.com/ghpvc/?username=vishnupprajapat&color=brightgreen)
+**📍 Jaipur, India &nbsp;|&nbsp; 🌐 Open Source Contributor**
 
-- 🔭 Focusing on FullStack (Frontend + Backend ).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 🥅 2026 Goals: Learn Next.js.
-- ⚡ Fun fact: Equal is Not Always Equal in JavaScript.🤣
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishnu-prajapat-ab3588259/)
+[![npm](https://img.shields.io/badge/npm-sanity--plugin--imagekit-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/sanity-plugin-imagekit-plugin)
+[![WordPress](https://img.shields.io/badge/WordPress-Core_Contributor-21759B?style=flat&logo=wordpress)](https://profiles.wordpress.org/vishnuprajapat/)
+[![Email](https://img.shields.io/badge/Email-dev.vishnuprajapat%40gmail.com-D14836?style=flat&logo=gmail)](mailto:dev.vishnuprajapat@gmail.com)
 
 ---
 
-### Connect With Me:
+## Professional Summary
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vishnu.prajapat.3726613)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prajapat-ab3588259/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.vishnuprajapat)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupprajapat20000@gmail.com)
+Full Stack Developer with **2+ years of experience** specializing in headless e-commerce, modern JavaScript frameworks, and CMS-driven web architectures. Currently building production-grade applications at **cmsMinds** for international clients across the Netherlands, Australia, and the US.
 
----
-
-### Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![ReduxToolkit-](https://img.shields.io/badge/ReduxToolkit-black?style=flastic&logo=Redux&logoColor=764ABC)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
- <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+Proven track record of delivering performant, SEO-optimized storefronts using **React.js, Next.js, Shopify Hydrogen, and Sanity CMS**. Active open-source contributor with a **merged PR in WordPress Gutenberg Core** and a published **npm package** used by the Sanity developer community.
 
 ---
 
+## Core Competencies
 
-### Top Usage Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
-
----
-### My Github Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupprajapat&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Vishnu Prajapat's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupprajapat&theme=nightowl" alt="vishnupprajapat" />
-</p>
+| Frontend | Commerce & CMS | Backend & Tools |
+|----------|---------------|-----------------|
+| React.js, Next.js, Remix | Shopify Hydrogen | Node.js, Express.js |
+| TypeScript, JavaScript (ES6+) | Shopify Storefront & Admin API | GraphQL, REST APIs |
+| Tailwind CSS, Shadcn UI | Shopify Liquid | MongoDB, MySQL |
+| Redux, RTK Query | Sanity CMS | Git, GitHub, Vercel |
+| HTML5, CSS3, PHP | Headless WordPress + WPGraphQL | Apollo Client, npm |
 
 ---
 
+## Professional Experience
 
-### Top Repositories
+### Full Stack Developer — cmsMinds
+**December 2023 – Present &nbsp;|&nbsp; Ahmedabad, Gujarat, India**
 
-<a href="https://github.com/vishnupprajapat/E-commerce-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnupprajapat&repo=E-commerce-admin&theme=nightowl" />
-</a>
-<a href="https://github.com/vishnupprajapat/netflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnupprajapat&repo=netflix&theme=nightowl" />
-</a>
+- Architected and delivered **10+ production-grade** web applications for international clients using React.js, Next.js, and Remix
+- Built fully headless Shopify storefronts using **Shopify Hydrogen** and Storefront API — improving page load speed by up to **40%** vs. traditional Liquid builds
+- Integrated **Sanity CMS** and Headless WordPress as content backends, enabling non-technical teams to independently manage dynamic content
+- Implemented **Core Web Vitals** optimizations (LCP, CLS, FID) consistently achieving **Lighthouse scores of 90+**
+- Leveraged SSG, SSR, and ISR patterns in Next.js for optimal performance across varying data freshness requirements
+
+---
+
+## Featured Projects
+
+### 🍛 Curry Wolf — Headless E-Commerce
+**Remix · Shopify Storefront API · Sanity CMS · React.js**
+
+Headless Shopify storefront for an international food brand. Integrated Shopify Storefront API for products/cart and Sanity CMS for dynamic marketing content with real-time previews.
+
+---
+
+### 🍟 FabelFriet — Multi-Language Headless Store
+**Shopify · Sanity CMS · React.js · Tailwind CSS**
+
+Headless storefront for Amsterdam-based Dutch fries brand [fabelfriet.nl](https://fabelfriet.nl) with full multi-language support across **6 locales** (NL, EN, DE, FR, ES, IT). Managed content across all languages via Sanity CMS.
+
+---
+
+### 📰 Today Media — Headless WordPress News Site
+**Next.js 16 · React 19 · TypeScript · GraphQL (Apollo) · Tailwind CSS 4**
+
+Headless frontend consuming WordPress content via **Apollo Client + WPGraphQL**. Implemented CDN-level caching and centralized GraphQL error handling for production reliability.
+
+---
+
+### ⚡ Puro Energy — Shopify Theme
+**Shopify · Liquid · JavaScript · Admin API**
+
+Custom Shopify theme built from scratch with Liquid, extended via Shopify Admin and Storefront APIs for product management and third-party integrations.
+
+---
+
+## Open Source
+
+### WordPress / Gutenberg — Core Contributor
+[![Merged PR](https://img.shields.io/badge/PR_%2377523-Merged_into_WordPress_Core-2da44e?style=flat&logo=github)](https://github.com/WordPress/gutenberg/pull/77523)
+
+**Merged PR #77523** — Fixed UI spacing above the Add Taxonomy modal in the Gutenberg block editor. Accepted into **WordPress Core**, powering **800M+ websites** globally.
+
+---
+
+### sanity-plugin-imagekit-plugin — npm Package
+[![npm](https://img.shields.io/npm/v/sanity-plugin-imagekit-plugin?style=flat&logo=npm&color=CB3837)](https://www.npmjs.com/package/sanity-plugin-imagekit-plugin)
+
+Published open-source Sanity Studio plugin integrating **ImageKit** as a custom asset source — enabling direct media uploads and management inside the CMS editor without leaving Sanity Studio.
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| Advanced React | Meta / Coursera |
+| React Basics | Meta / Coursera |
+| Programming with JavaScript | Meta / Coursera |
+| HTML and CSS in Depth | Meta / Coursera |
+| Version Control (Git & GitHub) | Meta / Coursera |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnupprajapat&show_icons=true&include_all_commits=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupprajapat&layout=compact&theme=default&hide_border=true&title_color=0077B5&langs_count=8)
+
+</div>
+
+---
+
+*Open to Full Stack, Frontend, and Headless Commerce opportunities. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/vishnu-prajapat-ab3588259/) or reach out via [email](mailto:dev.vishnuprajapat@gmail.com).*
