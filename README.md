@@ -87,12 +87,13 @@ Published open-source Sanity Studio plugin integrating **ImageKit** as a custom 
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnupprajapat&show_icons=true&include_all_commits=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupprajapat&layout=compact&theme=default&hide_border=true&title_color=0077B5&langs_count=8)
-
+<img src="https://github-readme-stats.vercel.app/api?username=vishnupprajapat&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5&cache_seconds=1800" alt="Vishnu's GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupprajapat&layout=compact&theme=default&hide_border=true&title_color=0077B5&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupprajapat&theme=default&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" />
 </div>
+
 
 ---
 
