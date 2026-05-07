@@ -1,6 +1,6 @@
 # Vishnu Prajapat — Full Stack Developer
 
-**📍 Jaipur, India &nbsp;|&nbsp; 🌐 Open Source Contributor**
+**📍 Jaipur, India &nbsp;|&nbsp; 💼 cmsMinds &nbsp;|&nbsp; 🌐 Open Source Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishnu-prajapat-ab3588259/)
 [![npm](https://img.shields.io/badge/npm-sanity--plugin--imagekit-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/sanity-plugin-imagekit-plugin)
@@ -42,33 +42,17 @@ Proven track record of delivering performant, SEO-optimized storefronts using **
 
 ---
 
-## Featured Projects
+## Project Experience
 
-### 🍛 Curry Wolf — Headless E-Commerce
-**Remix · Shopify Storefront API · Sanity CMS · React.js**
+Over the course of my professional career, I have worked on a range of client projects across **e-commerce, media, and energy sectors** for businesses based in the **Netherlands, Australia, and the US**.
 
-Headless Shopify storefront for an international food brand. Integrated Shopify Storefront API for products/cart and Sanity CMS for dynamic marketing content with real-time previews.
+My project work includes:
 
----
+- **Headless E-Commerce Storefronts** — Built fully headless Shopify storefronts using Remix and Shopify Hydrogen with Sanity CMS as the content backend, supporting real-time previews, SEO optimization, and multi-language experiences across 6 locales
+- **Headless CMS Websites** — Developed content-driven websites using Next.js 16 with GraphQL (Apollo Client) integrated against WordPress as a headless CMS, including CDN-level caching and centralized error handling
+- **Shopify Theme Development** — Delivered custom Shopify themes using Liquid templating, extended with Shopify Admin and Storefront APIs for product management and third-party app integrations
 
-### 🍟 FabelFriet — Multi-Language Headless Store
-**Shopify · Sanity CMS · React.js · Tailwind CSS**
-
-Headless storefront for Amsterdam-based Dutch fries brand [fabelfriet.nl](https://fabelfriet.nl) with full multi-language support across **6 locales** (NL, EN, DE, FR, ES, IT). Managed content across all languages via Sanity CMS.
-
----
-
-### 📰 Today Media — Headless WordPress News Site
-**Next.js 16 · React 19 · TypeScript · GraphQL (Apollo) · Tailwind CSS 4**
-
-Headless frontend consuming WordPress content via **Apollo Client + WPGraphQL**. Implemented CDN-level caching and centralized GraphQL error handling for production reliability.
-
----
-
-### ⚡ Puro Energy — Shopify Theme
-**Shopify · Liquid · JavaScript · Admin API**
-
-Custom Shopify theme built from scratch with Liquid, extended via Shopify Admin and Storefront APIs for product management and third-party integrations.
+> 💬 *Project details and live URLs are available on request.*
 
 ---
 
