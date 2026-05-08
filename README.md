@@ -9,7 +9,7 @@
 
 ---
 
-## Professional Summary
+## Professional Summary 
 
 Full Stack Developer with **2+ years of experience** specializing in headless e-commerce, modern JavaScript frameworks, and CMS-driven web architectures. Currently building production-grade applications at **cmsMinds** for international clients across the Netherlands, Australia, and the US.
 
